@@ -1,5 +1,6 @@
 # 💫 About Me:
-![My Porfolio](https://jomar77.github.io/)
+-----> [My Porfolio](https://jomar77.github.io/) <------
+
 Currently working on house price predictor for New Zealand market
 
 
