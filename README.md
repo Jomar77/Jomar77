@@ -1,7 +1,7 @@
 # 💫 About Me:
 -----> [My Porfolio](https://jomar77.github.io/) <------
 
-Currently working on house price predictor for New Zealand market
+Currently working on house price predictor for Tunisian House market. 
 
 
 ## 🌐 Socials:
