@@ -2,10 +2,10 @@
 -----> [My Porfolio](https://www.jncrd.dev/) <------
 
 Checkout my projects: 
-[house price predictor for Tunisian House market](https://github.com/Jomar77/Tunisia-House-Price-Predictor) 
-[lotto NZ predictor](https://lottonz.jncrd.dev/)
-[NZ travel level](https://nz-map.jncrd.dev/)
-[Smart Event Booking System Suite (business landing page + operation management system)]
+- [house price predictor for Tunisian House market](https://github.com/Jomar77/Tunisia-House-Price-Predictor) 
+- [lotto NZ predictor](https://lottonz.jncrd.dev/)
+- [NZ travel level](https://nz-map.jncrd.dev/)
+- Smart Event Booking System Suite (business landing page + operation management system)
 
 
 ## 🌐 Socials:
