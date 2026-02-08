@@ -1,6 +1,6 @@
 # Hi, I'm Jom 👋
 
-🌐 **Developer & Data Enthusiast** | 💼 **[Portfolio: jncrd.dev](https://www.jncrd.dev/)**
+🌐 **Software/Support Engineer** | 💼 **[Portfolio: jncrd.dev](https://www.jncrd.dev/)**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
