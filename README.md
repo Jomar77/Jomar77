@@ -29,6 +29,7 @@
 - 🎰 **[Lotto NZ Predictor](https://lottonz.jncrd.dev/)** - Lottery prediction tool for New Zealand Lotto
 - 🗺️ **[NZ Travel Level](https://nz-map.jncrd.dev/)** - Interactive travel and alert level visualization for New Zealand
 - 📅 **Smart Event Booking System Suite** - Business landing page + operations management system
+- 📱 **TikTok Streak Saver** - Tool to help maintain TikTok streaks and manage engagement
 
 
 ## GitHub Activity
