@@ -28,7 +28,7 @@
 - 🏠 **[Tunisia House Price Predictor](https://tunisian.jncrd.dev/)** - ML driven application for predicting house prices in the Tunisian market
 - 🎰 **[Lotto NZ Predictor](https://lottonz.jncrd.dev/)** - Lottery prediction tool for New Zealand Lotto
 - 🗺️ **[NZ Travel Level](https://nz-map.jncrd.dev/)** - Interactive travel and alert level visualization for New Zealand
-- 📅 **Smart Event Booking System Suite** - Business landing page + operations management system
+- 📅 **[Smart Event Booking System Suite])(https://pp.jncrd.dev/)** - Business landing page + operations management system
 - 📱 **[TikTok Streak Saver](https://github.com/Jomar77/streak-saver)** - Tool to help maintain TikTok streaks and manage engagement
 - 🎨 **[poettravelling.com](https://www.poettravelling.com/)** – portfolio website of an artist’s work, identity, and creative journey
 
