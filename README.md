@@ -47,6 +47,5 @@
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Jom_Nacorda-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jomnacorda)
-[![Instagram](https://img.shields.io/badge/-@_cheshire.art-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_cheshire.art)
 [![Portfolio](https://img.shields.io/badge/-jncrd.dev-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://www.jncrd.dev/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jomar77)
